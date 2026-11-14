@@ -1,1 +1,1 @@
-
+patient_id|patient_name|age|gender|blood_group|city|symptoms|systolic_bp|diastolic_bp|heart_rate|temperature|oxygen_saturation|urgency
