@@ -1,1 +1,16 @@
-patient_id|patient_name|age|gender|blood_group|city|symptoms|systolic_bp|diastolic_bp|heart_rate|temperature|oxygen_saturation|urgency
+patient_id|patient_name|age|gender|blood_group|city|symptoms|systolic_bp|diastolic_bp|heart_rate|temperature|oxygen_saturation|urgency|data_source
+H001|Rebecca Adler|33|Female|A-|Princeton|Speech difficulties and collapse|101|82|80|37.1|92|4|HOUSE_EPISODE_INSPIRED
+H002|Dan|15|Male|B-|Princeton|Night terrors and hallucinations|105|78|79|37.8|91|4|HOUSE_EPISODE_INSPIRED
+H003|Brandon Merrell|20|Male|O+|Princeton|Acute illness with worsening symptoms|128|82|65|38.4|93|4|HOUSE_EPISODE_INSPIRED
+H004|Mary Augustine|34|Female|AB-|Princeton|Severe skin rash and allergic reactions|113|86|71|36.7|92|4|HOUSE_EPISODE_INSPIRED
+H005|Elise Snow|38|Female|O+|Princeton|Progressive neurological symptoms|151|67|111|37.6|92|4|HOUSE_EPISODE_INSPIRED
+H006|Matt Davis|17|Male|A+|Princeton|Hallucinations and collapse|153|88|101|37.0|92|4|HOUSE_EPISODE_INSPIRED
+H007|John Henry Giles|52|Male|AB-|Princeton|Progressive paralysis|154|79|71|37.5|98|3|HOUSE_EPISODE_INSPIRED
+H008|Victoria Madsen|46|Female|B+|Princeton|Seizures and neurological deterioration|113|82|109|38.8|92|4|HOUSE_EPISODE_INSPIRED
+H009|Keith Foster|37|Male|B-|Princeton|Progressive systemic illness|110|94|89|37.2|99|3|HOUSE_EPISODE_INSPIRED
+H010|Hank Wiggen|32|Male|B-|Princeton|Weakness and unexplained illness|152|67|85|37.5|92|4|HOUSE_EPISODE_INSPIRED
+H011|Gabriel Reilich|12|Male|B+|Princeton|Skin changes and progressive illness|113|96|90|38.7|98|3|HOUSE_EPISODE_INSPIRED
+H012|Carly Forlano|27|Female|O+|Princeton|Breathlessness and signs of heart failure|147|100|99|37.2|100|3|HOUSE_EPISODE_INSPIRED
+H013|Joey Arnello|36|Male|A-|Princeton|Acute neurological and metabolic symptoms|114|73|97|37.7|91|4|HOUSE_EPISODE_INSPIRED
+H014|Jessica Simms|30|Female|O-|Princeton|Weight changes and related systemic symptoms|150|92|103|36.7|97|3|HOUSE_EPISODE_INSPIRED
+H015|Gary H. Wright|52|Male|AB+|Princeton|Recurrent infections and persistent illness|155|65|108|38.3|99|3|HOUSE_EPISODE_INSPIRED

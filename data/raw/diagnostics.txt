@@ -1,5 +1,4 @@
 diagnosis_id|diagnosis_name|category|description|synonyms
-
 diagnosis_id|diagnosis_name|category|description|synonyms
 D001|Hypertension|Cardiovascular|Persistently elevated blood pressure|High blood pressure
 D002|Coronary Artery Disease|Cardiovascular|Narrowing of arteries supplying the heart|CAD
@@ -61,3 +60,16 @@ D057|Acute Pancreatitis|Gastroenterology|Sudden inflammation of the pancreas|Pan
 D058|Pulmonary Embolism|Respiratory|Blockage of a pulmonary artery|PE
 D059|Anaphylaxis|Emergency Medicine|Severe systemic allergic reaction|Anaphylactic reaction
 D060|Heat Stroke|Emergency Medicine|Severe heat-related illness with impaired temperature regulation|Hyperthermia
+D061|Neurocysticercosis|Neurological|Parasitic infection affecting the central nervous system|Cysticercosis
+D062|Subacute Sclerosing Panencephalitis|Neurological|Rare progressive neurological disorder associated with measles infection|SSPE
+D063|Colchicine Poisoning|Emergency Medicine|Toxic reaction resulting from colchicine exposure|Colchicine toxicity
+D064|Copper IUD Related Allergic Reaction|Immunology|Allergic or inflammatory reaction associated with an intrauterine device|IUD reaction
+D065|African Trypanosomiasis|Infectious Disease|Parasitic infection transmitted by tsetse flies|African sleeping sickness
+D066|Organophosphate Poisoning|Emergency Medicine|Toxic exposure to organophosphate compounds|Organophosphate toxicity
+D067|Arteriovenous Malformation|Neurological|Abnormal connection between arteries and veins|AVM
+D068|Rabies|Infectious Disease|Viral infection affecting the central nervous system|Rabies infection
+D069|Naphthalene Poisoning|Emergency Medicine|Toxic exposure to naphthalene|Naphthalene toxicity
+D070|Cadmium Poisoning|Emergency Medicine|Toxic exposure to cadmium|Cadmium toxicity
+D071|Leprosy|Infectious Disease|Chronic infection caused by Mycobacterium leprae|Hansen disease
+D072|Ornithine Transcarbamylase Deficiency|Metabolic|Inherited disorder affecting ammonia metabolism|OTC deficiency
+D073|Common Variable Immunodeficiency|Immunology|Primary immune deficiency involving reduced antibody production|CVID
