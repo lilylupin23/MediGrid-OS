@@ -1,4 +1,3 @@
-
 location_id|location_name|department|x_coordinate|y_coordinate
 L001|Main Entrance|Entry|10|10
 L002|Emergency Department|Emergency Medicine|20|10

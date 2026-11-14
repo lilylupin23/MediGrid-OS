@@ -1,4 +1,3 @@
-
 connection_id|from_location_id|to_location_id|distance
 C001|L001|L002|10
 C002|L001|L011|25
