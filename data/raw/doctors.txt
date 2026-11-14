@@ -1,1 +1,16 @@
-
+doctor_id|doctor_name|specialization|role|data_source
+D001|Gregory House|Diagnostic Medicine, Nephrology, Infectious Disease|Head of Diagnostic Medicine|CANON
+D002|James Wilson|Oncology|Head of Oncology|CANON
+D003|Lisa Cuddy|Endocrinology|Dean of Medicine|CANON
+D004|Eric Foreman|Neurology|Diagnostic Medicine Consultant|CANON
+D005|Allison Cameron|Immunology|Diagnostic Medicine Consultant|CANON
+D006|Robert Chase|Surgery, Intensive Care|Diagnostic Medicine Consultant|CANON
+D007|Chris Taub|Plastic Surgery|Consultant|CANON
+D008|Remy Hadley (Thirteen)|Internal Medicine|Diagnostic Medicine Consultant|CANON
+D009|Lawrence Kutner|Sports Medicine|Diagnostic Medicine Consultant|CANON
+D010|Martha Masters|Internal Medicine|Diagnostic Medicine Consultant|CANON
+D011|Jessica Adams|Internal Medicine|Diagnostic Medicine Consultant|CANON
+D012|Chi Park|Neurology|Diagnostic Medicine Consultant|CANON
+D013|Elena Morris|Cardiology|Consultant|SYNTHETIC
+D014|Daniel Reed|Pediatrics|Consultant|SYNTHETIC
+D015|Sarah Bennett|Emergency Medicine|Consultant|SYNTHETIC
