@@ -1,1 +1,22 @@
 
+location_id|location_name|department|x_coordinate|y_coordinate
+L001|Main Entrance|Entry|10|10
+L002|Emergency Department|Emergency Medicine|20|10
+L003|Triage Unit|Emergency Medicine|25|15
+L004|Diagnostic Medicine|Diagnostics|40|20
+L005|Cardiology|Cardiology|55|15
+L006|Neurology|Neurology|55|30
+L007|Oncology|Oncology|70|20
+L008|Immunology|Immunology|70|35
+L009|Intensive Care Unit|Critical Care|35|40
+L010|General Surgery|Surgery|20|45
+L011|Pediatrics|Pediatrics|10|35
+L012|Radiology|Imaging|45|55
+L013|Clinical Laboratory|Laboratory|60|50
+L014|Pharmacy|Pharmacy|80|45
+L015|Outpatient Clinic|Outpatient|10|60
+L016|Medical Records|Administration|25|65
+L017|Administration|Administration|45|75
+L018|Research Wing|Research|70|70
+L019|Rehabilitation|Rehabilitation|85|60
+L020|Cafeteria|Facilities|90|15
