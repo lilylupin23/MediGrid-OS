@@ -1,1 +1,63 @@
+diagnosis_id|diagnosis_name|category|description|synonyms
 
+diagnosis_id|diagnosis_name|category|description|synonyms
+D001|Hypertension|Cardiovascular|Persistently elevated blood pressure|High blood pressure
+D002|Coronary Artery Disease|Cardiovascular|Narrowing of arteries supplying the heart|CAD
+D003|Myocardial Infarction|Cardiovascular|Injury to heart muscle due to reduced blood flow|Heart attack
+D004|Heart Failure|Cardiovascular|Condition where the heart cannot pump blood effectively|Congestive heart failure
+D005|Arrhythmia|Cardiovascular|Abnormal heart rhythm|Irregular heartbeat
+D006|Stroke|Neurological|Interruption of blood supply to the brain|Cerebrovascular accident CVA
+D007|Epilepsy|Neurological|Disorder involving recurrent seizures|Seizure disorder
+D008|Migraine|Neurological|Neurological condition causing recurrent headaches|Migraine headache
+D009|Meningitis|Neurological|Inflammation of membranes surrounding brain and spinal cord|Brain infection
+D010|Parkinson Disease|Neurological|Progressive nervous system disorder affecting movement|Parkinsonism
+D011|Asthma|Respiratory|Inflammatory condition causing narrowed airways|Bronchial asthma
+D012|Pneumonia|Respiratory|Infection causing inflammation in lung tissue|Lung infection
+D013|Tuberculosis|Respiratory|Infectious disease commonly affecting the lungs|TB
+D014|Chronic Obstructive Pulmonary Disease|Respiratory|Chronic condition restricting airflow|COPD
+D015|Bronchitis|Respiratory|Inflammation of the bronchial tubes|Chest cold
+D016|Influenza|Infectious Disease|Viral respiratory infection|Flu
+D017|COVID-19|Infectious Disease|Illness caused by SARS-CoV-2|Coronavirus disease
+D018|Sepsis|Infectious Disease|Life-threatening organ dysfunction caused by infection|Blood poisoning
+D019|Malaria|Infectious Disease|Parasitic disease transmitted by mosquitoes|Malaria infection
+D020|Dengue|Infectious Disease|Mosquito-borne viral infection|Breakbone fever
+D021|Diabetes Mellitus|Endocrine|Disorder affecting blood glucose regulation|Diabetes
+D022|Hypothyroidism|Endocrine|Underactive thyroid gland|Low thyroid function
+D023|Hyperthyroidism|Endocrine|Overactive thyroid gland|High thyroid function
+D024|Cushing Syndrome|Endocrine|Disorder involving prolonged excess cortisol|Hypercortisolism
+D025|Addison Disease|Endocrine|Adrenal glands produce insufficient hormones|Adrenal insufficiency
+D026|Breast Cancer|Oncology|Malignant growth originating in breast tissue|Breast carcinoma
+D027|Lung Cancer|Oncology|Malignant growth originating in lung tissue|Lung carcinoma
+D028|Leukemia|Oncology|Cancer affecting blood-forming tissues|Blood cancer
+D029|Lymphoma|Oncology|Cancer originating in lymphatic cells|Lymphatic cancer
+D030|Colorectal Cancer|Oncology|Cancer affecting the colon or rectum|Colon cancer
+D031|Rheumatoid Arthritis|Immunology|Autoimmune disease affecting joints|RA
+D032|Systemic Lupus Erythematosus|Immunology|Autoimmune disease affecting multiple organs|SLE, Lupus
+D033|Multiple Sclerosis|Neurological|Immune-mediated disease affecting the central nervous system|MS
+D034|Celiac Disease|Gastroenterology|Immune reaction to gluten affecting the small intestine|Gluten-sensitive enteropathy
+D035|Gastroesophageal Reflux Disease|Gastroenterology|Stomach contents flow back into the esophagus|GERD, Acid reflux
+D036|Peptic Ulcer Disease|Gastroenterology|Sores in the stomach or duodenal lining|Peptic ulcer
+D037|Appendicitis|Gastroenterology|Inflammation of the appendix|Inflamed appendix
+D038|Crohn Disease|Gastroenterology|Chronic inflammatory bowel disease|Crohn's
+D039|Ulcerative Colitis|Gastroenterology|Inflammatory bowel disease affecting the colon|UC
+D040|Chronic Kidney Disease|Renal|Long-term reduction in kidney function|CKD
+D041|Acute Kidney Injury|Renal|Sudden decline in kidney function|AKI
+D042|Kidney Stones|Renal|Hard mineral deposits forming in the kidneys|Renal calculi
+D043|Anemia|Hematology|Reduced healthy red blood cells or hemoglobin|Low hemoglobin
+D044|Hemophilia|Hematology|Inherited disorder affecting blood clotting|Bleeding disorder
+D045|Deep Vein Thrombosis|Hematology|Blood clot in a deep vein|DVT
+D046|Psoriasis|Dermatology|Chronic inflammatory skin condition|Plaque psoriasis
+D047|Eczema|Dermatology|Inflammatory skin condition causing itching|Atopic dermatitis
+D048|Melanoma|Dermatology|Cancer originating in pigment-producing cells|Skin cancer
+D049|Osteoarthritis|Musculoskeletal|Degenerative joint disease|OA
+D050|Osteoporosis|Musculoskeletal|Reduced bone density and increased fracture risk|Brittle bone disease
+D051|Gout|Musculoskeletal|Inflammatory arthritis caused by urate crystals|Gouty arthritis
+D052|Glaucoma|Ophthalmology|Group of eye conditions damaging the optic nerve|Optic neuropathy
+D053|Cataract|Ophthalmology|Clouding of the eye lens|Lens opacity
+D054|Conjunctivitis|Ophthalmology|Inflammation of the conjunctiva|Pink eye
+D055|Urinary Tract Infection|Urology|Infection affecting the urinary system|UTI
+D056|Benign Prostatic Hyperplasia|Urology|Non-cancerous enlargement of the prostate|BPH
+D057|Acute Pancreatitis|Gastroenterology|Sudden inflammation of the pancreas|Pancreatitis
+D058|Pulmonary Embolism|Respiratory|Blockage of a pulmonary artery|PE
+D059|Anaphylaxis|Emergency Medicine|Severe systemic allergic reaction|Anaphylactic reaction
+D060|Heat Stroke|Emergency Medicine|Severe heat-related illness with impaired temperature regulation|Hyperthermia
